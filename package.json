@@ -1,0 +1,13 @@
+{
+  "name": "imposibility-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ayatmaulana/imposibility-cli",
+  "author": "Ayat Maulana",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "cli-spinner": "^0.2.6",
+    "commander": "^2.11.0"
+  }
+}
