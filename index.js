@@ -1,7 +1,4 @@
-'use strict'
-
 const inquirer = require('inquirer')
-
 const config   = require('./config/config')
 const question = require('./partials/question') 
 const scrap    = require('./partials/scraper')
