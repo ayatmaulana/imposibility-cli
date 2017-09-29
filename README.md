@@ -19,7 +19,7 @@ after installed you just run
 imposibility-cli
 ```
 
-![](https://preview.ibb.co/b8h9Jw/i.gif)
+![](https://media.giphy.com/media/l1J9NcoVkTMQNaEaQ/giphy.gif)
 
 ## Feature
 - Generate your own domain name 
