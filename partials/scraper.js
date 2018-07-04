@@ -1,4 +1,4 @@
-const Table    = require('cli-table2')
+const Table    = require('cli-table3')
 const color    = require('cli-color')
 const axios    = require('axios')
 const ora      = require('ora')
